@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John Doe",
+    "viewpoint": "This product is amazing!",
+    "portfolio":"Chief Executive Officer",
+    "organization": "ABC Inc."
+  },
+  {
+    "name": "Jane Smith",
+    "viewpoint": "I love it! Great job!",
+    "portfolio":"Sponsorship Head",
+    "organization": "XYZ Corp."
+  },
+  {
+    "name": "David Johnson",
+    "viewpoint": "Highly recommended!",
+    "portfolio":"Marketing Manager",
+    "organization": "123 Company"
+  }
+]
